@@ -15,4 +15,4 @@
 
 {{< quick-link-zh >}} -->
 
-<center><script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=719aeb&w=300&t=tt&d=rHwZIUHygR7fCRFA70s67FSjavPKaWgpT9BDKPiXDm8&co=fafafa&ct=2e1c1c&cmn=0eed0e'></script></script></center>
+<center><script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=d4c4e3&w=a&t=tt&d=rHwZIUHygR7fCRFA70s67FSjavPKaWgpT9BDKPiXDm8&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script></center>
