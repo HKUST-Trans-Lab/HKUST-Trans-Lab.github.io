@@ -23,4 +23,4 @@ Moreover, the laboratory embraces a strong emphasis on industry-relevant researc
 
 {{< quick-link-en >}} -->
 
-<center><script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=71cdeb&w=200&t=tt&d=rHwZIUHygR7fCRFA70s67FSjavPKaWgpT9BDKPiXDm8&co=fafafa&ct=2e1c1c'></script></center>
+<center><script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=719aeb&w=300&t=tt&d=rHwZIUHygR7fCRFA70s67FSjavPKaWgpT9BDKPiXDm8&co=fafafa&ct=2e1c1c&cmn=0eed0e'></script></script></center>
