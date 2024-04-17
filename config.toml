@@ -65,7 +65,7 @@ theme = 'LoveIt'
         name = "Posts"
         url = "/posts/"
         title = ""
-        weight = 8
+        weight = 7
       [[languages.en.menu.main]]
         identifier = "contact"
         pre = ""
@@ -73,7 +73,7 @@ theme = 'LoveIt'
         name = "Contact"
         url = "/contact/"
         title = ""
-        weight = 7
+        weight = 8
       [[languages.en.menu.main]]
         identifier = "github"
         pre = "<i class='fab fa-github fa-fw'></i>"
@@ -81,7 +81,7 @@ theme = 'LoveIt'
         name = ""
         url = "https://github.com/csl-cqu"
         title = "GitHub"
-        weight = 8
+        weight = 9
     [languages.en.params]
       # site description
       description = "The website of Intelligent Transportation Laboratory@HKUST(GZ)"
@@ -160,6 +160,13 @@ theme = 'LoveIt'
         url = "/seminars/"
         title = ""
         weight = 6
+      [[languages.en.menu.main]]
+        identifier = "博文"
+        pre = ""
+        name = "Posts"
+        url = "/posts/"
+        title = ""
+        weight = 7
       [[languages.zh-cn.menu.main]]
         identifier = "contact"
         pre = ""
@@ -167,7 +174,7 @@ theme = 'LoveIt'
         name = "联系我们"
         url = "/contact/"
         title = ""
-        weight = 7
+        weight = 8
       [[languages.zh-cn.menu.main]]
         identifier = "github"
         pre = "<i class='fab fa-github fa-fw'></i>"
@@ -175,7 +182,7 @@ theme = 'LoveIt'
         name = ""
         url = "https://github.com/csl-cqu"
         title = "GitHub"
-        weight = 8
+        weight = 9
     [languages.zh-cn.params]
       # 网站描述
       description = "香港科技大学(广州)智能交通实验室"
