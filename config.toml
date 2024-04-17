@@ -9,7 +9,7 @@ theme = 'LoveIt'
     languageCode = "en"
     languageName = "English"
     hasCJKLanguage = false
-    title = 'ITL @ HKUST(GZ)'
+    title = 'ITL@HKUST(GZ)'
     paginate = 12
     [languages.en.menu]
       [[languages.en.menu.main]]
