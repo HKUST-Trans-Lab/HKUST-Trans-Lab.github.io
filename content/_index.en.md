@@ -27,7 +27,7 @@ Moreover, the laboratory embraces a strong emphasis on industry-relevant researc
     }
 </style>
 
-<div class="highlight-box">Multiple Ph.D. / RA positions available! Please feel free to send your resume to <b>yunbai@ust.hk</b>. Experiences of top-tier academic publications are strong plus. Perspective students are also highly encouraged to apply to my visiting student positions first. More information can be found <a herf="https://hkust-trans-lab.github.io/posts/2023-spring-and-2024-fall-positions/">here</a>.</div>
+<div class="highlight-box">Multiple Ph.D. / RA positions available! Please feel free to send your resume to <b>yunbai@ust.hk</b>. Experiences of top-tier academic publications are strong plus. Perspective students are also highly encouraged to apply to my visiting student positions first. </div>
 
 # News
 
