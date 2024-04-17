@@ -27,7 +27,7 @@ Moreover, the laboratory embraces a strong emphasis on industry-relevant researc
     }
 </style>
 
-<div class="highlight-box">Multiple Ph.D. positions available! Please feel free to send your resume to yunbai@ust.hk. Experiences of top-tier academic publications, data mining challenge awards, and ICPC awards are strong plus. Perspective students are also highly encouraged to apply to my visiting student positions first.</div>
+<div class="highlight-box">Multiple Ph.D. / RA positions available! Please feel free to send your resume to yunbai@ust.hk. Experiences of top-tier academic publications are strong plus. Perspective students are also highly encouraged to apply to my visiting student positions first.</div>
 
 # News
 
