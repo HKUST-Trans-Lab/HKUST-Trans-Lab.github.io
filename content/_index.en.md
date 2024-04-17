@@ -14,6 +14,21 @@ HKUST(GZ), officially opened on September 1, 2022, is the new campus of the Hong
 Moreover, the laboratory embraces a strong emphasis on industry-relevant research and technology transfer. By adopting a model that integrates academic inquiry with practical applications, it offers students hands-on experiences in product development, testing, and market deployment, preparing them for careers at the intersection of academia, industry, and technological innovation.
 </p>
 
+<style>
+    .highlight-box {
+        display: inline-block; /* 使div能够与文本流并排显示 */
+        padding: 5px 10px; /* 内边距，根据需要调整 */
+        background-color: #FFC107; /* 背景颜色，这里使用橙色 */
+        color: #000; /* 文字颜色为黑色 */
+        border-radius: 6px; /* 设置圆角，可根据喜好调整数值 */
+        line-height: 1.4; /* 保持适当的行间距 */
+        font-size: 16px; /* 字体大小，可根据需要调整 */
+        word-break: break-word; /* 允许长单词换行 */
+    }
+</style>
+
+<div class="highlight-box">Multiple Ph.D. positions available! Please feel free to send your resume to yunbai@ust.hk. Experiences of top-tier academic publications, data mining challenge awards, and ICPC awards are strong plus. Perspective students are also highly encouraged to apply to my visiting student positions first.</div>
+
 # News
 
 {{< homepage-news-en >}}
