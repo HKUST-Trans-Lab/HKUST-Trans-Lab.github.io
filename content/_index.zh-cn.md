@@ -19,7 +19,7 @@
     }
 </style>
 
-<div class="highlight-box">提供多个博士/RA职位！请随时将简历发送至 yunbai@ust.hk。发表过顶级学术论文者优先。我们也强烈建议有远见的学生先申请我的访问学者职位。</div>
+<div class="highlight-box">提供多个博士/RA职位！请随时将简历发送至 <b>yunbai@ust.hk</b>。发表过顶级学术论文者优先。我们也强烈建议有远见的学生先申请我的访问学者职位。更多职位信息请查看<a herf="https://hkust-trans-lab.github.io/posts/2023-spring-and-2024-fall-positions/">这里</a>。</div>
 
 # 新闻
 
