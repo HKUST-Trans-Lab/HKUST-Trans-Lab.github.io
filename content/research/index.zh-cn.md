@@ -13,18 +13,18 @@ math:
 ## 数字化与智能交通基础设施资产管理
 
 #### 实例1：桥梁及附属结构资产管理
-![](./rt1.jpg)
+![](https://hkust-trans-lab.github.io/research/rt1.jpg)
 
 #### 实例2：基于风险的交通资产管理和弹性规划
-![](./rt2.jpg)
+![](https://hkust-trans-lab.github.io/research/rt2.jpg)
 
 #### 实例3：海事资产管理框架和决策支持工具
-![](./rt3.jpg)
+![](https://hkust-trans-lab.github.io/research/rt3.jpg)
 
 ## 多模式、复杂的运输系统网络建模
 
 ### 实例1：货运物流系统建模与供应链网络设计
-![](./rt4.jpg)
+![](https://hkust-trans-lab.github.io/research/rt4.jpg)
 
 ### 实例2：智能出行
-![](./rt5.jpg)
+![](https://hkust-trans-lab.github.io/research/rt5.jpg)
