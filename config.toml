@@ -60,6 +60,13 @@ theme = 'LoveIt'
         title = ""
         weight = 6
       [[languages.en.menu.main]]
+        identifier = "posts"
+        pre = ""
+        name = "Posts"
+        url = "/posts/"
+        title = ""
+        weight = 8
+      [[languages.en.menu.main]]
         identifier = "contact"
         pre = ""
         post = ""
