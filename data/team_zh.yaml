@@ -5,11 +5,18 @@
   biography: 白云博士, 2013年博士毕业于美国伊利诺伊大学香槟分校, 土木与环境工程专业。2008年本科毕业于浙江大学土木工程专业及竺可桢学院工程教育辅修专业。 2013至2014年于伊利诺伊大学担任博士后研究员。2014年至2022年于美国罗格斯大学担任研究助理研究员、助理研究教授。 2022年9月加入香港科技大学(广州)智能交通学域, 担任助理教授。白云博士的研究方向是多模式、复杂交通系统建模，应用先进的数据科学、运筹学、系统工程、和管理学方法来解决交通、供应链网络设计及基础设施资产管理问题。 她目前的研究重点是交通设施数字孪生和智能运维，包括基础设施（轨道，桥梁等）的大数据采集、 融合和分析、来研究其老化和病害机制、状态及剩余寿命的预测、生命周期成本分析、养护决策优化和预算投资规划、以及系统风险和韧性分析。
   position: director
 
-- name: 马克
-  photo: demo.png
+- name: Chenglin Chen
+  photo: chenchenglin.jpg
   info: 2022秋季博士
-  email: mark@gmail.com
-  inter: 交通系统和网络建模
+  email: cchen363@connect.hkust-gz.edu.cn
+  inter: 深度学习；图像处理；物体检测；SLAM；
+  position: phd
+
+- name: Ruohui Zhang
+  photo: zhangruohui.jpg
+  info: 2022秋季博士
+  email: rzhang856@connect.hkust-gz.edu.cn
+  inter: 交通和运输规划与管理；交通网络建模；基于数据驱动的轨道检测；
   position: phd
 
 - name: 马克
