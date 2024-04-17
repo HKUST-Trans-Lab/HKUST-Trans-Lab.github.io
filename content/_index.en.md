@@ -18,6 +18,7 @@ We are at Chongqing University that is a national university in the Shapingba di
 
 {{< homepage-news-en >}}
 
+<!--
 # Quick Links
 
-{{< quick-link-en >}}
+{{< quick-link-en >}} -->
