@@ -5,7 +5,7 @@ draft: false
 lightgallery: true
 ---
 
-## 实验室地址
+## 位置
 - 电话: 020-88335768
 - 邮件: yunbai@ust.hk
 - 地址: 香港科技大学（广州）办公室E1-305
