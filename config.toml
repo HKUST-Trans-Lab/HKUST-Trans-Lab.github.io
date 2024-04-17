@@ -461,7 +461,7 @@ theme = 'LoveIt'
 # Author config
 # 作者配置
 [author]
-  name = "Intelligent Transportation Laboratory, Hong Kong University of Science and Technology (Guangzhou)."
+  name = "Intelligent Transportation Laboratory, HKUST(GZ)."
 
 
 # Options to make output .md files
