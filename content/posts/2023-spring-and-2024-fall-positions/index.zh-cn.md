@@ -1,3 +1,13 @@
+---
+title: "2023年春季和2024年秋季职位申请"
+date: 2024-04-18
+draft: false
+author: "Baiyun"
+tags: ["position"]
+
+lightgallery: true
+---
+
 ## 介绍
 
 香港科技大学(广州)智能交通学域 (Intelligent Transportation Thrust)课题组招收一名博士后、 1-2名博士研究生(全额奖学金￥15,000/月)、及研究助理lab assistant 若干名。
