@@ -1,3 +1,13 @@
+---
+title: "Spring 2023 and Fall 2024 Position Applications"
+date: 2024-04-18
+draft: false
+author: "Baiyun"
+tags: ["position"]
+
+lightgallery: true
+---
+
 ## Introduction
 
 The Intelligent Transportation Thrust at the Hong Kong University of Science and Technology (Guangzhou) - HKUST-GZ is seeking to recruit **one Postdoctoral Fellow**, **1-2 Ph.D. students** (each with a full scholarship of ¥15,000 per month), and **several Research Assistants**.
