@@ -10,12 +10,12 @@
   info: 教授
   email: nwang5 [at] cqu [dot] edu [dot] cn
   biography: 重庆大学“泓深青年学者”，IEEE Member。北京邮电大学博士，美国乔治梅森大学博士后研究员。研究方向包括（但不局限于）物理层安全，信息物理系统安全及隐私保护，射频指纹，以及机器学习和无人机安全等。相关研究成果先后发表于IEEE Networks Magazine, IEEE Transactions on Information Forensics and Security, IEEE Transactions on Wireless Communication, IEEE International Conference on Computer Communications, IEEE Internet of Things Journal等国际主流期刊及会议。受邀为多个国际期刊会议审稿人，包括：IEEE TIFS, IEEE TWC, IEEE TMC, IEEE TCOM, IEEE TVT, IEEE TCCN, IEEE Wireless Communication magazine, IEEE IoT Journal, IEEE INFOCOM, IEEE CNS, IEEE GLOBECOM等。
-  position: member
-
-- name: 吕潇
-  interests: 多媒体安全
-  position: Ph.D.
+  position: phd
 
 - name: 方香宜
   interests: 应用密码学, 大数据安全与隐私保护
   position: Master
+
+- name: 吕潇
+  interests: 多媒体安全
+  position: ra
