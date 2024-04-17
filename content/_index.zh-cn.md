@@ -14,3 +14,5 @@
 # 快速访问
 
 {{< quick-link-zh >}} -->
+
+<center><script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=a37dc0&w=a&t=tt&d=rHwZIUHygR7fCRFA70s67FSjavPKaWgpT9BDKPiXDm8&co=fafafa&ct=2e1c1c'></script></center>
