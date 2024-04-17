@@ -12,6 +12,7 @@
 
 {{< homepage-news-zh >}}
 
+<!--
 # 快速访问
 
-{{< quick-link-zh >}}
+{{< quick-link-zh >}} -->
