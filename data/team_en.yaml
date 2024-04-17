@@ -5,11 +5,18 @@
   biography: Prof. Yun Bai is an Assistant Professor in Intelligent Transportation Thrust, at the Hong Kong University of Science and Technology (HKUST) (Guangzhou). Prior to joining HKUST(GZ), Prof. Bai was an Assistant Research Professor at the Center for Advanced Infrastructure and Transportation (CAIT) at Rutgers University. Prof. Bai obtained her B.S. in Civil Engineering and General Engineering from Zhejiang University in 2008, and Ph.D. in Civil Engineering from University of Illinois at Urbana-Champaign in 2013. She also had one and half year of postdoctoral research experience in the Industrial Engineering (IE) Department at UIUC. Her research applies state-of-the-art data science, operations research, management science, systems engineering to address multi-modal freight and passenger transportation systems modeling and infrastructure management. She is specialized in data analytics, mathematical modeling, algorithm design, as well as data platform and decision support tool development. Over the years, she led several research projects as PI, Co-PI or task leader, which were sponsored by US Department of Agriculture (USDA), USDOT University Transportation Center Programs (UTC), New Jersey Department of Transportation (NJDOT), NJ Transit, as well as the FHWA Long-Term Bridge Performance (LTBP) Program. She has published over 20 papers in premier transportation engineering, operations research, and economics journals. She is currently serving as an invited member of the TRB AT030 (Standing Committee of Agricultural and Food Transportation).
   position: director
 
-- name: Mark
-  photo: demo.png
+- name: Chenglin Chen
+  photo: chenchenglin.jpg
   info: 2022 Fall PhD
-  email: mark@gmail.com
-  inter: Transportation Systems and Network Modelling
+  email: cchen363@connect.hkust-gz.edu.cn
+  inter: Deep Learning; Image Processing, Object Detection; SLAM;
+  position: phd
+
+- name: Ruohui Zhang
+  photo: zhangruohui.jpg
+  info: 2022 Fall PhD
+  email: rzhang856@connect.hkust-gz.edu.cn
+  inter: Traffic and transportation planning and management; Transportation Network Modelling; Data-driven based track detection;
   position: phd
 
 - name: Mark
