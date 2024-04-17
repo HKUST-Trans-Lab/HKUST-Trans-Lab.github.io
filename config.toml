@@ -9,7 +9,7 @@ theme = 'LoveIt'
     languageCode = "en"
     languageName = "English"
     hasCJKLanguage = false
-    title = 'Intelligent Transportation Laboratory @ HKUST(GZ)'
+    title = 'ITL @ HKUST(GZ)'
     paginate = 12
     [languages.en.menu]
       [[languages.en.menu.main]]
@@ -79,7 +79,7 @@ theme = 'LoveIt'
       # site description
       description = "The website of Intelligent Transportation Laboratory @ HKUST(GZ)"
       # site keywords
-      keywords = ["Intelligent Transportation Laboratory", "HKUST(GZ)", "AI"]
+      keywords = ["Intelligent Transportation Laboratory", "ITL", "HKUST(GZ)", "AI"]
       # App icon config
       [languages.en.params.app]
         # optional site title override for the app when added to an iOS home screen or Android launcher
@@ -173,7 +173,7 @@ theme = 'LoveIt'
       # 网站描述
       description = "香港科技大学(广州)智能交通实验室"
       # 网站关键词
-      keywords = ["Intelligent Transportation Laboratory", "HKUST(GZ)", "AI"]
+      keywords = ["Intelligent Transportation Laboratory", "ITL", "HKUST(GZ)", "AI"]
       # 应用图标配置
       [languages.zh-cn.params.app]
         # 当添加到 iOS 主屏幕或者 Android 启动器时的标题, 覆盖默认标题
@@ -223,7 +223,7 @@ theme = 'LoveIt'
       logo = ""
       # title name
       # 标题名称
-      name = "Intelligent Transportation Laboratory @ HKUST(GZ)"
+      name = "ITL @ HKUST(GZ)"
       # you can add extra information before the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
       pre = ""
@@ -252,7 +252,7 @@ theme = 'LoveIt'
     author = true
     # site creation time
     # 网站创立年份
-    since = 2022
+    since = 2024
     # ICP info only in China (HTML format is supported)
     # ICP 备案信息，仅在中国使用 (支持 HTML 格式)
     icp = ""
