@@ -1,11 +1,11 @@
 # 英文主页展示的新闻
 en:
-  - title: Two paper accepted by ACM MM (<b>CCF A</b>)! Congrats to Hangcheng!
-    date: 2022-6
+  - title: We released the early lab website!
+    date: 2024-4-17
     icon: 🎉
     
 # 中文主页展示的新闻
 zh:
-  - title: 两篇文章被ACM MM接收(<b>CCF A</b>)! 恭喜航呈!
-    date: 2022-6
+  - title: 我们发布了早期的实验室主页！
+    date: 2024-4-17
     icon: 🎉
