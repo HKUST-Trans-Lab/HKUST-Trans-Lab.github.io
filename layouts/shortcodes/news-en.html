@@ -1,4 +1,4 @@
-<!-- <div>
+<div>
     <h2 id="2022">2022</h2>
     {{ range .Site.Data.news.en2022 }}
         <div>
@@ -17,32 +17,5 @@
             <hr>
         </div>
     {{ end }}
-</div> -->
-
-<div>
-    <h2 id="2022">2022</h2>
-    {{ range .Site.Data.news.en2022 }}
-        <div>
-            <details>
-                <summary>Click to expand/collapse</summary>
-                {{ if .detail }}
-                    <div class="content" style="text-align:justify">{{ .detail | safeHTML }}</div>
-                {{ else }}
-                    <div class="content" style="text-align:justify">{{ .title | safeHTML }}</div>
-                {{ end }}
-            </details>
-            <hr>
-        </div>
-    {{ end }}
 </div>
 
-<style>
-    details summary {
-        cursor: pointer;
-        user-select: none;
-    }
-
-    .content {
-        /* Add any additional styling for the content, such as margin or padding */
-    }
-</style>
