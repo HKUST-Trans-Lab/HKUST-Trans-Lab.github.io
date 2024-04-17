@@ -10,13 +10,13 @@
   info: Research Assistant Professor
   email: gaoliu [at] cqu [dot] edu [dot] cn
   biography: Gao Liu received the Ph.D. degree in information security from Xidian University, Xi’an, China, in 2022. From September 2018 to December 2018 and November 2019 to March 2021, he was a visiting scholar in Aalto University. At present, he is a research assistant professor with College of Computer Science, Chongqing University. His research interests include security, privacy, and trust management in the next generation mobile communication networks, privacy-preserving verifiable federated learning, network security measurement, data collection, and data aggregation or fusion.
-  position: member
-
-- name: Hangcheng Liu
-  interests: Artificial Intelligence Security, Multimedia Security
-  position: Ph.D.
+  position: phd
 
 - name: Xiangyi Fang
   interests: Applied Cryptography, Big data Security and Privacy
   position: Master
+
+- name: Hangcheng Liu
+  interests: Artificial Intelligence Security, Multimedia Security
+  position: ra
 
