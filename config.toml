@@ -161,9 +161,9 @@ theme = 'LoveIt'
         title = ""
         weight = 6
       [[languages.en.menu.main]]
-        identifier = "博文"
+        identifier = "posts"
         pre = ""
-        name = "Posts"
+        name = "博文"
         url = "/posts/"
         title = ""
         weight = 7
