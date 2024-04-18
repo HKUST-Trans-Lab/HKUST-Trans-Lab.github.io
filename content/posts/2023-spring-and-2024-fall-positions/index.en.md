@@ -1,6 +1,6 @@
 ---
 title: "Spring 2023 and Fall 2024 Position Applications"
-date: 2022-04-18T09:40:28+08:00
+date: 2024-03-08T09:01:00+08:00
 draft: false
 author: "Baiyun"
 tags: ["position"]
