@@ -3,7 +3,7 @@ title: "2023年春季和2024年秋季职位申请"
 date: 2024-04-17T09:01:00+08:00
 draft: false
 author: "Baiyun"
-tags: ["Applied Cryptography"]
+tags: ["Position"]
 
 lightgallery: true
 ---
