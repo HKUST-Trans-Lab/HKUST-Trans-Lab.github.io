@@ -1,7 +1,3 @@
-# Cyber Security Laboratory Website
-
-这是重庆大学网络安全实验室的主页源代码仓库。该网站采用[Hugo](https://gohugo.io/)框架构建，并在[GitHub Pages](https://pages.github.com/)部署，网站整体框架从[LoveIt](https://github.com/dillonzq/LoveIt)模板修改而来。
-
 ## 快速开始
 因为本网站采用[GitHub Action](https://github.com/features/actions)自动构建并发布，所以如果只是更新网站中的部分内容（例如修改团队成员信息、添加publication）则没有必要在本地配置开发环境，甚至没有必要将本仓库克隆到本地，而是简单的对data目录下的数据文件进行修改并提交即可。下面介绍一些常见维护场景的操作方法
 
@@ -97,3 +93,7 @@ git clone --recursive git@github.com:csl-cqu/csl-cqu.github.io.git
 ```
 
 Step 3: 完成开发
+
+# 致谢
+
+该网站采用[Hugo](https://gohugo.io/)框架构建，并在[GitHub Pages](https://pages.github.com/)部署，网站整体框架从[Cyber Security Laboratory Website](https://github.com/csl-cqu/csl-cqu.github.io)模板修改而来，感谢所有作者的辛勤贡献。
