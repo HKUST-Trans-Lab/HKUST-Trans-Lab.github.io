@@ -1,5 +1,3 @@
-# Welcome to the ITL@HKUST-GZ
-
 <p style="text-align:justify">
 HKUST(GZ), officially opened on September 1, 2022, is the new campus of the Hong Kong University of Science and Technology (HKUST) located in Guangzhou, China, and the third university co-managed by mainland China and Hong Kong. It aims to explore new frontiers in cross-disciplinary education and innovate pedagogies, cultivating forward-looking talents with global vision through its four interdisciplinary Hubs and innovative programs like the Red Bird MPhil Program. HKUST(GZ) is expected to play a constructive role in promoting higher education reform, educational collaboration between Hong Kong and mainland China, and the development of the Greater Bay Area.
 </p>
@@ -27,7 +25,7 @@ Moreover, the laboratory embraces a strong emphasis on industry-relevant researc
     }
 </style>
 
-<div class="highlight-box">Multiple Ph.D. / RA positions available! Please feel free to send your resume to <b>yunbai@ust.hk</b>. Experiences of top-tier academic publications are strong plus. Perspective students are also highly encouraged to apply to my visiting student positions first. </div>
+<div class="highlight-box">Multiple Ph.D. / RA positions available! Please feel free to send your resume to <b>yunbai@hkust-gz.edu.cn</b>. For MPhil students, we still have open positions, please contact me after passing the interview with the school's Red Bird MPhil committee. </div>
 
 # News
 
