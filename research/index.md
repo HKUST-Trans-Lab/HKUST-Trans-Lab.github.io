@@ -1,24 +1,20 @@
 # Research
 
 
-The laboratory offers an extensive array of research topics, each meticulously designed to delve into the most pressing questions and cutting-edge advancements across various scientific disciplines. Here are some themes and techniques that we currently work on:
+Our research focuses fall into three main areas:
 
-## Digitalization and Intelligent Transportation Infrastructure Asset Management
+1. Area 1 Multimodal Freight Logistics
+   - Multi-modal freight system modeling (port and maritime, rail transportation, inland & coastal waterway)
+   - Supply chain network design
+   - Energy-environment-transportation nexus
+2. Area 2 Smart Mobility
+   - First/last-mile microtransit ridesharing
+   - Smart parking system
+3. Area 3 Infrastructure Management
+   - Smart sensing & data analytics (AI/ML based condition monitoring & deterioration modeling)
+   - Decision support & optimization (life cycle planning, resilience planning)
+   - Computer vision for rail safety
 
-#### Instance1: Bridge and ancillary structure asset management
-![](./rt1.jpg)
+![image](https://github.com/HKUST-Trans-Lab/HKUST-Trans-Lab.github.io/assets/55651568/0a3f348c-7dbf-467b-983e-f2755a6836e2)
 
-#### Instance2: Risk-based transportation asset management and resilience planning
-![](./rt2.jpg)
-
-#### Instance3: Maritime asset management framework and decision support tool
-![](./rt3.jpg)
-
-## Multi-Modal, Complex Transportation Systems Network Modeling
-
-#### Instance1: Freight logistics system modeling and supply chain network design
-![](./rt4.jpg)
-
-#### Instance2: Smart Mobility
-![](./rt5.jpg)
 
