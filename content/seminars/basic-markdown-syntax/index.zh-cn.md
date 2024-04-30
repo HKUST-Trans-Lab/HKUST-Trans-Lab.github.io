@@ -1,9 +1,9 @@
 ---
 weight: 4
 title: "Markdown 基本语法"
-date: 2022-04-20T09:40:28+08:00
+date: 2024-04-20T09:40:28+08:00
 draft: false
-author: "王浩"
+author: "白云"
 description: "这篇文章展示了基本的 Markdown 语法和格式."
 resources:
 - name: "featured-image"
