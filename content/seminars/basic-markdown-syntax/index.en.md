@@ -1,9 +1,9 @@
 ---
 weight: 4
 title: "Basic Markdown Syntax"
-date: 2022-04-20T09:40:28+08:00
+date: 2024-04-20T09:40:28+08:00
 draft: false
-author: "Hao Wang"
+author: "Yun Bai"
 description: "This article shows the basic Markdown syntax and format."
 resources:
 - name: "featured-image"
