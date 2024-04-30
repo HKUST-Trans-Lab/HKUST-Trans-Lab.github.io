@@ -2,7 +2,7 @@
 HKUST(GZ), officially opened on September 1, 2022, is the new campus of the Hong Kong University of Science and Technology (HKUST) located in Guangzhou, China, and the third university co-managed by mainland China and Hong Kong. It aims to explore new frontiers in cross-disciplinary education and innovate pedagogies, cultivating forward-looking talents with global vision through its four interdisciplinary Hubs and innovative programs like the Red Bird MPhil Program. HKUST(GZ) is expected to play a constructive role in promoting higher education reform, educational collaboration between Hong Kong and mainland China, and the development of the Greater Bay Area.
 </p-->
 
-# Welcome to the Intelligent Transportation Laboratory of HKUST (GZ)
+### 👋Welcome to the Intelligent Transportation Laboratory of HKUST (GZ)
 
 {{< slide >}}
 
