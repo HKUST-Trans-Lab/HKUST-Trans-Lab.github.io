@@ -23,17 +23,17 @@
 
 ## 正在进行的项目/研究课题
 
-1. 人工智能辅助轨道状态监测和预防性/预测性维护
+1. **人工智能辅助轨道状态监测和预防性/预测性维护**
 
 ![image](https://github.com/HKUST-Trans-Lab/HKUST-Trans-Lab.github.io/assets/55651568/e7e7c811-720e-42b2-8cac-f0e44da63c5e)
 
 ![image](https://github.com/HKUST-Trans-Lab/HKUST-Trans-Lab.github.io/assets/55651568/136d7d64-f59a-4f19-a4c3-c5dedfdec157)
 
-2. 用于铁路安全的视觉人工智能
+2. **用于铁路安全的视觉人工智能**
 
 ![image](https://github.com/HKUST-Trans-Lab/HKUST-Trans-Lab.github.io/assets/55651568/27289c67-05af-4790-bc2e-2afffca453fb)
 
-3. 探索人工智能生成内容 (AIGC) 在交通研究中的使用
+3. **探索 AIGC 在交通研究中的使用**
 
 ![image](https://github.com/HKUST-Trans-Lab/HKUST-Trans-Lab.github.io/assets/55651568/e4df672e-a730-46fd-a6b3-abcfc92c55d3)
 
