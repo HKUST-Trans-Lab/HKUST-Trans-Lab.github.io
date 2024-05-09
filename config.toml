@@ -82,7 +82,7 @@ theme = 'LoveIt'
         url = "https://github.com/HKUST-Trans-Lab"
         title = "GitHub"
         weight = 9
-      [[languages.zh-cn.menu.main]]
+      [[languages.en.menu.main]]
         identifier = "zhihu"
         pre = "<i class='fab fa-zhihu fa-fw'></i>"
         post = ""
