@@ -74,14 +74,14 @@ theme = 'LoveIt'
         url = "/contact/"
         title = ""
         weight = 8
-      # [[languages.en.menu.main]]
-      #   identifier = "github"
-      #   pre = "<i class='fab fa-github fa-fw'></i>"
-      #   post = ""
-      #   name = ""
-      #   url = "https://github.com/csl-cqu"
-      #   title = "GitHub"
-      #   weight = 9
+      [[languages.en.menu.main]]
+        identifier = "github"
+        pre = "<i class='fab fa-github fa-fw'></i>"
+        post = ""
+        name = ""
+        url = "https://github.com/HKUST-Trans-Lab"
+        title = "GitHub"
+        weight = 9
     [languages.en.params]
       # site description
       description = "The website of Intelligent Transportation Laboratory@HKUST(GZ)"
